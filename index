@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Growth Works Professional Exchange Monitors</title>
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- Font CSS -->
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+  <!-- Theme CSS -->
+  <link id="theme-style" rel="stylesheet" href="styles-6.css">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+  integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="https://use.fontawesome.com/d8975d35f9.js"></script>
+</head>
+
+<body>
+<div class="wrapper">
+  <div class="sidebar-wrapper">
+
+    <div class="profile-container">
+      <h1 class="name">Tanner Grant</h1>
+    </div>
+
+    <div class="contact-container container-block">
+      <ul class="list-unstyled contact-list">
+        <li class="email">
+          <i class="fa fa-envelope"></i>
+          <a href="mailto:tyfaccini@gmail.com">TannerGrant@growthworks.com</a>
+        </li>
+        <li class="phone">
+          <i class="fa fa-phone"></i>
+          <a href="tel:458.232.2800">458.232.2800</a>
+        </li>
+   
+
+
+  <div class="main-wrapper">
+  <section class="section summary-section">
+    <h2 class="section-title"><i class="fa fa-user"></i>Mission Statement</h2>
+    <div class="summary">
+      <p>
+        Our goal is to provide families with a positive monitored exchange, while upholding the highest standards of the California Court System. All monitors are in compliance with Family Code 
+        Section 3200, Standard 5.20
+        
+      </p>
+    </div>
+  </section>
+
+  <section class="section experiences-section">
+    <h2 class="section-title"><i class="fa fa-briefcase"></i>Experience</h2>
+    
+        <div class="item">
+      <div class="meta">
+        <div class="upper-row">
+          <h3 class="job-title">Tanner Grant </h3>
+          <div class="time">September 2019 - Present</div>
+      <div class="details">
+        <p>
+         Professional exchange monitor
+      </div>
+    </div
+    
+
+</body>
+</html>
